@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Notes3
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Notes3\ here.\r\n\r\n\ @author\ Wiebe\r\n\ @version\ 8.28.19\r\n
+comment1.params=
+comment1.target=void\ main()
+comment2.params=
+comment2.target=void\ equality()
+comment2.text=List\ of\ operators\:\r\n\ \r\n\ \r\n\ +\ (Addition)\r\n\ %\ (Modulus)\r\n\ -\ (Subtraction)\r\n\ *\ (Mult)\r\n\ \=\ (Assignment)\r\n\ >\ (Greater\ than)\r\n\ <\ (Less\ than)\r\n\ >\=\ (Greater\ than\ or\ equal\ to)\r\n\ <\=\ (Less\ than\ or\ equal\ to)\r\n\ &&\ (AND)\r\n\ ||\ (OR)\r\n\ ++\ (Increment)\r\n\ --\ (Decrement)\r\n\ /\ (Division)\r\n\ \!\ (NOT)\r\n\ +\=\r\n\ -\=\r\n\ *\=\r\n\ /\=\r\n\ %\=\r\n\ \=\=\ (Primitive\ equality)\r\n\ \!\=\ (Primitive\ inequality)\r\n\ \r\n
+comment3.params=
+comment3.target=void\ mystery()
+comment4.params=number
+comment4.target=int\ round(double)
+numComments=5

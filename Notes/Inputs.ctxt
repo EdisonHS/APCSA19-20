@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Inputs
+comment1.params=args
+comment1.target=void\ sayIt(java.lang.String[])
+comment1.text=This\ program\ will\ ask\ you\ for\ a\ phrase,\r\n\ and\ it\ will\ repeat\ it\ back\ to\ you\ in\r\n\ the\ terminal\r\n\ \r\n
+comment2.params=
+comment2.target=void\ recasting()
+numComments=3

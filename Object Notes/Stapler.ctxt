@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Stapler
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Stapler\ here.\r\n\r\n\ @author\ Wiebe\r\n\ @version\ 9.4.19\r\n
+comment1.params=name\ numOfStaples\ color\ brandName\ size\ isElectric
+comment1.target=Stapler(java.lang.String,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ boolean)
+comment2.params=
+comment2.target=Stapler()
+comment3.params=brandName
+comment3.target=Stapler(java.lang.String)
+comment4.params=
+comment4.target=void\ stapleStuff()
+comment5.params=name
+comment5.target=void\ toss(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getName()
+comment7.params=
+comment7.target=int\ numOfStaplesLeft()
+numComments=8
